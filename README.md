@@ -19,7 +19,10 @@ This is bash script to setup local environment for developers and operations
 
 ## How to use?
 
-- Clone this repository
-- Change directory to `relax`
-- Run this command `chmod +x setup.sh`
-- Start installation `./setup.sh`
+You can run this command line by line
+
+```
+git clone https://github.com/creatif-studio/relax.git
+cd relax; chmod +x relax.sh
+sudo ./relax.sh
+```
