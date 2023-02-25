@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/creatif-studio/relax">
-    <img alt="relax" src="./assets/logo.png">
+    <img alt="relax" width="75px" height="75px" src="./assets/logo.png">
   </a>
 </p>
 
