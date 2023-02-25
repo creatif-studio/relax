@@ -2,6 +2,12 @@
 
 This is bash script to setup local environment for developers and operations
 
+## Supports
+
+- [x] Ubuntu
+- [ ] Mac
+- [ ] Windows
+
 ## Features
 
 - [x] OhMyZsh
