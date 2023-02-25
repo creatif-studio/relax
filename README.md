@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Setup Local Environment for Developers and Operations.
+  Setup Local Environment for Developers and Operations
 </p>
 
 ## Supports
