@@ -1,6 +1,12 @@
-# Relax
+<p align="center">
+  <a href="https://github.com/creatif-studio/relax">
+    <img alt="relax" src="./assets/logo.png">
+  </a>
+</p>
 
-This is bash script to setup local environment for developers and operations
+<p align="center">
+  Setup Local Environment for Developers and Operations.
+</p>
 
 ## Supports
 
