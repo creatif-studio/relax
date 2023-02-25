@@ -84,10 +84,10 @@ install_vscode() {
 display_menu() {
 echo "Select the applications to install (enter comma-separated numbers):"
 echo "1. OhMyZsh"
-echo "2. Docker and Docker Compose"
+echo "2. Docker"
 echo "3. Ansible"
 echo "4. Terraform"
-echo "5. Vagrant and VirtualBox"
+echo "5. Vagrant"
 echo "6. Visual Studio Code"
 read input
 
